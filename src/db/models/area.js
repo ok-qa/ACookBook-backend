@@ -13,4 +13,4 @@ export const areaSchema = new Schema(
   }
 );
 
-export const areasCollection = model("areas", areaSchema);
+export const areasCollection = model("Area", areaSchema);
