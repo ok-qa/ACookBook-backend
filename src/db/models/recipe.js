@@ -1,20 +1,5 @@
 import { Schema, model } from "mongoose";
 
-const recipeIngredientsSchema = new Schema(
-  {
-    id: {
-      type: Schema.Types.ObjectId,
-      ref: "ingredients",
-      required: true,
-    },
-    measure: {
-      type: String,
-      required: true,
-    },
-  },
-  { _id: false }
-);
-
 export const recipeSchema = new Schema(
   {
     title: {
@@ -24,12 +9,12 @@ export const recipeSchema = new Schema(
     category: [
       {
         type: Schema.Types.ObjectId,
-        ref: "categories",
+        ref: "Category",
       },
     ],
     area: {
       type: Schema.Types.ObjectId,
-      ref: "areas",
+      ref: "Area",
     },
     description: {
       type: String,
@@ -43,10 +28,7 @@ export const recipeSchema = new Schema(
       type: String,
       required: true,
     },
-    thumb: {
-      type: String,
-    },
-    preview: {
+    img: {
       type: String,
     },
     youtube: {
@@ -59,7 +41,19 @@ export const recipeSchema = new Schema(
       },
     ],
     ingredients: {
-      type: [recipeIngredientsSchema],
+      type: [
+        {
+          id: {
+            type: Schema.Types.ObjectId,
+            ref: "Ingredient",
+            required: true,
+          },
+          measure: {
+            type: String,
+            required: true,
+          },
+        },
+      ],
       required: true,
       validate: {
         validator: function (value) {
@@ -75,7 +69,7 @@ export const recipeSchema = new Schema(
       max: 5,
       validate: {
         validator: function (value) {
-          return value === undefined || Number.isFinite();
+          return value === undefined || Number.isFinite(value);
         },
         message: "Rating must be a number between 0 and 5",
       },

@@ -1,5 +1,5 @@
 import fs from "fs";
-import { categoriesCollection } from "../db/models/category.js";
+import { CategoriesCollection } from "../db/models/category.js";
 
 const runCategoriesSeed = async () => {
   try {
@@ -12,7 +12,7 @@ const runCategoriesSeed = async () => {
         name: category.name,
       };
 
-      const savedCategory = await categoriesCollection.create(newCategory);
+      const savedCategory = await CategoriesCollection.create(newCategory);
     }
   } catch (error) {
     console.error(error);

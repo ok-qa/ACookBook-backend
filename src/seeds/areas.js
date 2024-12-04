@@ -1,5 +1,5 @@
 import fs from "fs";
-import { areasCollection } from "../db/models/area.js";
+import { AreasCollection } from "../db/models/area.js";
 
 const runAreasSeed = async () => {
   try {
@@ -10,7 +10,7 @@ const runAreasSeed = async () => {
         name: area.name,
       };
 
-      const savedArea = await areasCollection.create(newArea);
+      const savedArea = await AreasCollection.create(newArea);
 
       console.log("saved area: ", savedArea);
     }
