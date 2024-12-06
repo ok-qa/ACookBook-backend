@@ -6,21 +6,19 @@ import { IngredientsCollection } from "../db/models/ingredient.js";
 
 const runRecipesSeed = async () => {
   try {
-    await RecipesCollection.deleteMany({});
-    const recipesData = JSON.parse(fs.readFileSync("allRecipes.json", "utf-8"));
+    const recipesData = JSON.parse(
+      fs.readFileSync("./seedsData/allRecipes.json", "utf-8")
+    );
 
     for (const recipe of recipesData) {
-      const categoryId = await CategoriesCollection.findOne({
+      const category = await CategoriesCollection.findOne({
         name: recipe.category,
       });
-      console.log("category Id: ", categoryId);
 
       const ingredients = recipe.ingredients.map(async (ingredient) => {
         const foundIngredient = await IngredientsCollection.findOne({
           oldId: ingredient.id,
         });
-        console.log(" Ingredient: ", ingredient);
-        console.log("found Ingredient: ", foundIngredient);
         return {
           measure: ingredient.measure,
           id: foundIngredient._id,
@@ -30,7 +28,7 @@ const runRecipesSeed = async () => {
 
       const newRecipe = {
         title: recipe.title,
-        categoryId: categoryId,
+        categoryId: category.id,
         description: recipe.description,
         cookingTime: recipe.time,
         instructions: recipe.instructions,
@@ -41,14 +39,11 @@ const runRecipesSeed = async () => {
         rating: recipe.rating,
       };
       if (recipe.area) {
-        const areaId = await AreasCollection.findOne({ name: recipe.area });
-        newRecipe.areaId = areaId;
-
-        console.log("area Id: ", areaId);
+        const area = await AreasCollection.findOne({ name: recipe.area });
+        newRecipe.areaId = area.id;
       }
 
-      const savedRecipe = await RecipesCollection.create(newRecipe);
-      console.log("saved recipe: ", savedRecipe);
+      await RecipesCollection.create(newRecipe);
     }
   } catch (error) {
     console.error(error);

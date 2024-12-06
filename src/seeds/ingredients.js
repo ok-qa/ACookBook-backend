@@ -3,9 +3,8 @@ import { IngredientsCollection } from "../db/models/ingredient.js";
 
 const runIngredientsSeed = async () => {
   try {
-    // await IngredientsCollection.deleteMany({});
     const ingredientsData = JSON.parse(
-      fs.readFileSync("ingredients.json", "utf-8")
+      fs.readFileSync("./seedsData/ingredients.json", "utf-8")
     );
 
     for (const ingredient of ingredientsData) {
@@ -16,8 +15,7 @@ const runIngredientsSeed = async () => {
         img: ingredient.img,
       };
 
-      const savedIngredient = await IngredientsCollection.create(newIngredient);
-      console.log("saved ingredient: ", savedIngredient);
+      await IngredientsCollection.create(newIngredient);
     }
   } catch (error) {
     console.error(error);

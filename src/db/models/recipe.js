@@ -6,13 +6,13 @@ export const recipeSchema = new Schema(
       type: String,
       required: true,
     },
-    category: [
+    categoryId: [
       {
         type: Schema.Types.ObjectId,
         ref: "Category",
       },
     ],
-    area: {
+    areaId: {
       type: Schema.Types.ObjectId,
       ref: "Area",
     },

@@ -1,19 +1,12 @@
 import { initMongoConnection } from "./db/initMongoConnection.js";
-import runAreasSeed from "./seeds/areas.js";
-import runCategoriesSeed from "./seeds/categories.js";
-import runIngredientsSeed from "./seeds/ingredients.js";
-import runRecipesSeed from "./seeds/recipes.js";
-// import getAllUsers from "./services/users.js";
+
 import setupServer from "./server.js";
+import runAllSeeds from "./seeds/index.js";
 
 const bootstrap = async () => {
   await initMongoConnection();
-  // await runCategoriesSeed();
-  // await runAreasSeed();
-  // await runIngredientsSeed();
-  await runRecipesSeed();
+  // runAllSeeds();
   setupServer();
-  // getAllUsers();
 };
 
 bootstrap();
