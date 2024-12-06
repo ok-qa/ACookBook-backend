@@ -10,10 +10,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Battenberg%20Cake.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=aB41Q7kDZQ0",
-    "tags": [
-      "Cake",
-      "Sweet"
-    ],
+    "tags": ["Cake", "Sweet"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -77,10 +74,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Irish%20stew.jpg",
     "time": "160",
     "youtube": "https://www.youtube.com/watch?v=kYH2qJXnSMo",
-    "tags": [
-      "Stew",
-      "Meat"
-    ],
+    "tags": ["Stew", "Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3796",
@@ -204,10 +198,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Teriyaki%20Chicken%20Casserole.jpg",
     "time": "75",
     "youtube": "https://www.youtube.com/watch?v=4aZr5hZXP_s",
-    "tags": [
-      "Meat",
-      "Casserole"
-    ],
+    "tags": ["Meat", "Casserole"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e376c",
@@ -259,11 +250,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Honey%20Teriyaki%20Salmon.jpg",
     "time": "25",
     "youtube": "https://www.youtube.com/watch?v=4MpYuaJsvRw",
-    "tags": [
-      "Fish",
-      "Breakfast",
-      "DateNight"
-    ],
+    "tags": ["Fish", "Breakfast", "DateNight"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e365c",
@@ -299,11 +286,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Poutine.jpg",
     "time": "20",
     "youtube": "https://www.youtube.com/watch?v=UVAMAoA2_WU",
-    "tags": [
-      "UnHealthy",
-      "Speciality",
-      "HangoverFood"
-    ],
+    "tags": ["UnHealthy", "Speciality", "HangoverFood"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3789",
@@ -335,11 +318,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Bakewell%20tart.jpg",
     "time": "85",
     "youtube": "https://www.youtube.com/watch?v=1ahpSTf_Pvk",
-    "tags": [
-      "Tart",
-      "Baking",
-      "Alcoholic"
-    ],
+    "tags": ["Tart", "Baking", "Alcoholic"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3743",
@@ -395,9 +374,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Callaloo%20Jamaican%20Style.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=bCr3GasJWwE",
-    "tags": [
-      "Savory"
-    ],
+    "tags": ["Savory"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3707",
@@ -453,9 +430,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Beef%20Brisket%20Pot%20Roast.jpg",
     "time": "300",
     "youtube": "https://www.youtube.com/watch?v=gh48wM6bPWQ",
-    "tags": [
-      "Meat"
-    ],
+    "tags": ["Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e366c",
@@ -555,10 +530,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Thai%20Green%20Curry.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=LIbKVpBQKJI",
-    "tags": [
-      "Curry",
-      "Mild"
-    ],
+    "tags": ["Curry", "Mild"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3746",
@@ -622,9 +594,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Traditional%20Croatian%20Goulash.jpg",
     "time": "135",
     "youtube": "https://www.youtube.com/watch?v=ipEz5u2T7KM",
-    "tags": [
-      "Soup"
-    ],
+    "tags": ["Soup"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e365d",
@@ -688,10 +658,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chicken%20Parmentier.jpg",
     "time": "75",
     "youtube": "https://www.youtube.com/watch?v=tiG-xlmeyjg",
-    "tags": [
-      "Meat",
-      "Dairy"
-    ],
+    "tags": ["Meat", "Dairy"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3746",
@@ -767,10 +734,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chinon%20Apple%20Tarts.jpg",
     "time": "70",
     "youtube": "https://www.youtube.com/watch?v=5dAW9HQgtCk",
-    "tags": [
-      "Tart",
-      "Baking"
-    ],
+    "tags": ["Tart", "Baking"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3748",
@@ -814,11 +778,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Sticky%20Toffee%20Pudding.jpg",
     "time": "50",
     "youtube": "https://www.youtube.com/watch?v=Wytv3bjqJII",
-    "tags": [
-      "Pudding",
-      "Cake",
-      "Desert"
-    ],
+    "tags": ["Pudding", "Cake", "Desert"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -874,11 +834,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Carrot%20Cake.jpg",
     "time": "75",
     "youtube": "https://www.youtube.com/watch?v=asjZ7iTrGKA",
-    "tags": [
-      "Cake",
-      "Treat",
-      "Sweet"
-    ],
+    "tags": ["Cake", "Treat", "Sweet"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3789",
@@ -942,9 +898,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/English%20Breakfast.jpg",
     "time": "51",
     "youtube": "https://www.youtube.com/watch?v=FXjYU2Ensck",
-    "tags": [
-      "Breakfast"
-    ],
+    "tags": ["Breakfast"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3760",
@@ -1232,10 +1186,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Burek.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=YsJXZwE5pdY",
-    "tags": [
-      "Streetfood",
-      " Onthego"
-    ],
+    "tags": ["Streetfood", " Onthego"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3867",
@@ -1315,10 +1266,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Eccles%20Cakes.jpg",
     "time": "80",
     "youtube": "https://www.youtube.com/watch?v=xV0QCJ0GD5w",
-    "tags": [
-      "Snack",
-      "Treat"
-    ],
+    "tags": ["Snack", "Treat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -1378,9 +1326,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Sweet%20and%20Sour%20Pork.jpg",
     "time": "20",
     "youtube": "https://www.youtube.com/watch?v=mdaBIhgEAMo",
-    "tags": [
-      "Sweet"
-    ],
+    "tags": ["Sweet"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e365e",
@@ -1488,13 +1434,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Steak%20Diane.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=9rWZNHkrsNg",
-    "tags": [
-      "DateNight",
-      "Expensive",
-      "Meat",
-      "MainMeal",
-      "Cheasy"
-    ],
+    "tags": ["DateNight", "Expensive", "Meat", "MainMeal", "Cheasy"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3838",
@@ -1754,10 +1694,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Roast%20fennel%20and%20aubergine%20paella.jpg",
     "time": "56",
     "youtube": "https://www.youtube.com/watch?v=H5SmjR-fxUs",
-    "tags": [
-      "Vegan",
-      "Paella"
-    ],
+    "tags": ["Vegan", "Paella"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e383e",
@@ -1833,13 +1770,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Baked%20salmon%20with%20fennel%20_%20tomatoes.jpg",
     "time": "25",
     "youtube": "https://www.youtube.com/watch?v=xvPR2Tfw5k0",
-    "tags": [
-      "Paleo",
-      "Keto",
-      "HighFat",
-      "Baking",
-      "LowCarbs"
-    ],
+    "tags": ["Paleo", "Keto", "HighFat", "Baking", "LowCarbs"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37c8",
@@ -1883,9 +1814,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Boulangère%20Potatoes.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=gcXPruv1Mjg",
-    "tags": [
-      "SideDish"
-    ],
+    "tags": ["SideDish"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372e",
@@ -2141,10 +2070,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Split%20Pea%20Soup.jpg",
     "time": "150",
     "youtube": "https://www.youtube.com/watch?v=qdhWz7qAaCU",
-    "tags": [
-      "Soup",
-      "Warm"
-    ],
+    "tags": ["Soup", "Warm"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37fd",
@@ -2192,9 +2118,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Saltfish%20and%20Ackee.jpg",
     "time": "590",
     "youtube": "https://www.youtube.com/watch?v=nbfNyZbdn2I",
-    "tags": [
-      "Speciality"
-    ],
+    "tags": ["Speciality"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e383a",
@@ -2270,11 +2194,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Apple%20Frangipan%20Tart.jpg",
     "time": "50",
     "youtube": "https://www.youtube.com/watch?v=rp8Slv4INLk",
-    "tags": [
-      "Tart",
-      "Baking",
-      "Fruity"
-    ],
+    "tags": ["Tart", "Baking", "Fruity"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36c0",
@@ -2402,13 +2322,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Peanut%20Butter%20Cheesecake.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=QSTsturcyL0",
-    "tags": [
-      "Cake",
-      "Desert",
-      "Treat",
-      "UnHealthy",
-      "Speciality"
-    ],
+    "tags": ["Cake", "Desert", "Treat", "UnHealthy", "Speciality"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -2544,9 +2458,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Treacle%20Tart.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=YMmgKCNcqwI",
-    "tags": [
-      "Tart"
-    ],
+    "tags": ["Tart"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3743",
@@ -2586,11 +2498,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chelsea%20Buns.jpg",
     "time": "115",
     "youtube": "https://www.youtube.com/watch?v=i_zemP3yBKw",
-    "tags": [
-      "Bun",
-      "Baking",
-      "Treat"
-    ],
+    "tags": ["Bun", "Baking", "Treat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3817",
@@ -2650,9 +2558,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Massaman%20Beef%20curry.jpg",
     "time": "130",
     "youtube": "https://www.youtube.com/watch?v=mVxgZSCU9_g",
-    "tags": [
-      "Curry"
-    ],
+    "tags": ["Curry"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e373b",
@@ -2772,12 +2678,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Rocky%20Road%20Fudge.jpg",
     "time": "340",
     "youtube": "https://www.youtube.com/watch?v=N1aJ3nEYXyg",
-    "tags": [
-      "Chocolate",
-      "Snack",
-      "Sweet",
-      "Baking"
-    ],
+    "tags": ["Chocolate", "Snack", "Sweet", "Baking"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3721",
@@ -2985,9 +2886,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Leblebi%20Soup.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=BgRifcCwinY",
-    "tags": [
-      "Soup"
-    ],
+    "tags": ["Soup"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -3043,14 +2942,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Budino%20Di%20Ricotta.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=6dzd6Ra6sb4",
-    "tags": [
-      "Cake",
-      "Baking",
-      "Desert",
-      "Sweet",
-      "Alcoholic",
-      "Calorific"
-    ],
+    "tags": ["Cake", "Baking", "Desert", "Sweet", "Alcoholic", "Calorific"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37d1",
@@ -3162,11 +3054,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Shakshuka.jpg",
     "time": "25",
     "youtube": "https://www.youtube.com/watch?v=C-3_jYrfdBU",
-    "tags": [
-      "Egg",
-      "Brunch",
-      "Breakfast"
-    ],
+    "tags": ["Egg", "Brunch", "Breakfast"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -3274,9 +3162,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Ribollita.jpg",
     "time": "55",
     "youtube": "https://www.youtube.com/watch?v=BiQUYTBb6eQ",
-    "tags": [
-      "Vegetarian"
-    ],
+    "tags": ["Vegetarian"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -3340,11 +3226,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Dal%20fry.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=J4D855Q9-jg",
-    "tags": [
-      "Curry",
-      "Vegetarian",
-      "Cake"
-    ],
+    "tags": ["Curry", "Vegetarian", "Cake"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3780",
@@ -3416,11 +3298,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Vegan%20Chocolate%20Cake.jpg",
     "time": "45",
     "youtube": "https://www.youtube.com/watch?v=C3pAgB7pync",
-    "tags": [
-      "Vegan",
-      "Chocolate",
-      "Cake"
-    ],
+    "tags": ["Vegan", "Chocolate", "Cake"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36a8",
@@ -3464,9 +3342,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Flamiche.jpg",
     "time": "57",
     "youtube": "https://www.youtube.com/watch?v=vT0q5c880Rg",
-    "tags": [
-      "Tart"
-    ],
+    "tags": ["Tart"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -3526,10 +3402,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Beef%20Wellington.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=FS8u1RBdf6I",
-    "tags": [
-      "Meat",
-      "Stew"
-    ],
+    "tags": ["Meat", "Stew"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3726",
@@ -3629,10 +3502,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Matar%20Paneer.jpg",
     "time": "25",
     "youtube": "https://www.youtube.com/watch?v=wlseYNqwLNs",
-    "tags": [
-      "Curry",
-      "Vegetarian"
-    ],
+    "tags": ["Curry", "Vegetarian"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3776",
@@ -3692,10 +3562,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Minced%20Beef%20Pie.jpg",
     "time": "70",
     "youtube": "https://www.youtube.com/watch?v=QY47h-uqq5g",
-    "tags": [
-      "Pie",
-      "Meat"
-    ],
+    "tags": ["Pie", "Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3789",
@@ -3751,13 +3618,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Home-made%20Mandazi.jpg",
     "time": "55",
     "youtube": "",
-    "tags": [
-      "Baking",
-      "Breakfast",
-      "Egg",
-      "Warm",
-      "Snack"
-    ],
+    "tags": ["Baking", "Breakfast", "Egg", "Warm", "Snack"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3762",
@@ -3789,9 +3650,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Brown%20Stew%20Chicken.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=_gFB1fkNhXs",
-    "tags": [
-      "Stew"
-    ],
+    "tags": ["Stew"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e365b",
@@ -3859,9 +3718,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Vegetable%20Shepherd_s%20Pie.jpg",
     "time": "150",
     "youtube": "",
-    "tags": [
-      "Alcoholic"
-    ],
+    "tags": ["Alcoholic"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3746",
@@ -4057,9 +3914,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Lamb%20and%20Potato%20pie.jpg",
     "time": "100",
     "youtube": "https://www.youtube.com/watch?v=NCyPaaUNYUk",
-    "tags": [
-      "Pie"
-    ],
+    "tags": ["Pie"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37be",
@@ -4111,13 +3966,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/New%20York%20cheesecake.jpg",
     "time": "195",
     "youtube": "https://www.youtube.com/watch?v=tspdJ6hxqnc",
-    "tags": [
-      "Desert",
-      "Dairy",
-      "Pudding",
-      "Cake",
-      "Breakfast"
-    ],
+    "tags": ["Desert", "Dairy", "Pudding", "Cake", "Breakfast"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -4165,10 +4014,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Christmas%20Pudding%20Flapjack.jpg",
     "time": "50",
     "youtube": "https://www.youtube.com/watch?v=OaqvGvEiwzU",
-    "tags": [
-      "Snack",
-      "Cake"
-    ],
+    "tags": ["Snack", "Cake"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e375f",
@@ -4208,9 +4054,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Parkin%20Cake.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=k1lG4vk2MQA",
-    "tags": [
-      "Caramel"
-    ],
+    "tags": ["Caramel"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -4262,9 +4106,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Stovetop%20Eggplant%20With%20Harissa_%20Chickpeas_%20and%20Cumin%20Yogurt.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=uYB-1xJp4lg",
-    "tags": [
-      "Vegetarian"
-    ],
+    "tags": ["Vegetarian"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -4308,9 +4150,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/French%20Lentils%20With%20Garlic%20and%20Thyme.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=CrlTS1mJQMA",
-    "tags": [
-      "Pulse"
-    ],
+    "tags": ["Pulse"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -4358,9 +4198,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Salmon%20Prawn%20Risotto.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=V2PMvBv52IE",
-    "tags": [
-      "Fish"
-    ],
+    "tags": ["Fish"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -4420,9 +4258,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Yaki%20Udon.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=5Iy0MCowSvA",
-    "tags": [
-      "LowCalorie"
-    ],
+    "tags": ["LowCalorie"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37f4",
@@ -4478,10 +4314,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Rock%20Cakes.jpg",
     "time": "20",
     "youtube": "https://www.youtube.com/watch?v=tY3taZO3Aro",
-    "tags": [
-      "Baking",
-      "Cake"
-    ],
+    "tags": ["Baking", "Cake"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3762",
@@ -4589,12 +4422,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Tourtiere.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=A96hbwobKKs",
-    "tags": [
-      "Pie",
-      "MainMeal",
-      "BBQ",
-      "Cake"
-    ],
+    "tags": ["Pie", "MainMeal", "BBQ", "Cake"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3746",
@@ -4718,11 +4546,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/White%20chocolate%20creme%20brulee.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=LmJ0lsPLHDc",
-    "tags": [
-      "Desert",
-      "DinnerParty",
-      "Pudding"
-    ],
+    "tags": ["Desert", "DinnerParty", "Pudding"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36c3",
@@ -4758,9 +4582,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Fresh%20sardines.jpg",
     "time": "15",
     "youtube": "https://www.youtube.com/watch?v=DDaZoXP1Mdc",
-    "tags": [
-      "Fresh"
-    ],
+    "tags": ["Fresh"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3896",
@@ -4792,9 +4614,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Tunisian%20Lamb%20Soup.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=w1qgTQmLRe4",
-    "tags": [
-      "Soup"
-    ],
+    "tags": ["Soup"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e370d",
@@ -4862,9 +4682,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Mince%20Pies.jpg",
     "time": "20",
     "youtube": "https://www.youtube.com/watch?v=PnXft7lQNJE",
-    "tags": [
-      "Christmas"
-    ],
+    "tags": ["Christmas"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -5056,10 +4874,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Vegetarian%20Casserole.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=oHmKE9mWtWM",
-    "tags": [
-      "Casserole",
-      "Vegetarian"
-    ],
+    "tags": ["Casserole", "Vegetarian"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37bb",
@@ -5183,12 +4998,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chocolate%20Souffle.jpg",
     "time": "10",
     "youtube": "https://www.youtube.com/watch?v=FWqfkUEWOTg",
-    "tags": [
-      "DinnerParty",
-      "Desert",
-      "Pudding",
-      "Chocolate"
-    ],
+    "tags": ["DinnerParty", "Desert", "Pudding", "Chocolate"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3823",
@@ -5236,9 +5046,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Pouding%20chomeur.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=WFvj71RZYPc",
-    "tags": [
-      "Pudding"
-    ],
+    "tags": ["Pudding"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -5350,9 +5158,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/French%20Onion%20Soup.jpg",
     "time": "70",
     "youtube": "https://www.youtube.com/watch?v=-DLDMQucqDI",
-    "tags": [
-      "Soup"
-    ],
+    "tags": ["Soup"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -5528,11 +5334,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Oxtail%20with%20broad%20beans.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=DIhxk-98Hz8",
-    "tags": [
-      "Heavy",
-      "MainMeal",
-      "Speciality"
-    ],
+    "tags": ["Heavy", "MainMeal", "Speciality"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3841",
@@ -5596,9 +5398,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Kidney%20Bean%20Curry.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=Tp_PMWvIKzo",
-    "tags": [
-      "Curry"
-    ],
+    "tags": ["Curry"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3789",
@@ -5658,11 +5458,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Baingan%20Bharta.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=-84Zz2EP4h4",
-    "tags": [
-      "Spicy",
-      "Bun",
-      "Calorific"
-    ],
+    "tags": ["Spicy", "Bun", "Calorific"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3662",
@@ -5774,10 +5570,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Beef%20and%20Mustard%20Pie.jpg",
     "time": "210",
     "youtube": "https://www.youtube.com/watch?v=nMyBC9staMU",
-    "tags": [
-      "Meat",
-      "Pie"
-    ],
+    "tags": ["Meat", "Pie"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e365d",
@@ -5853,12 +5646,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Three%20Fish%20Pie.jpg",
     "time": "70",
     "youtube": "https://www.youtube.com/watch?v=Ds1Jb8H5Sg8",
-    "tags": [
-      "Fish",
-      "Seafood",
-      "Dairy",
-      "Pie"
-    ],
+    "tags": ["Fish", "Seafood", "Dairy", "Pie"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3746",
@@ -5922,13 +5710,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Key%20Lime%20Pie.jpg",
     "time": "211",
     "youtube": "https://www.youtube.com/watch?v=q4Rz7tUkX9A",
-    "tags": [
-      "Cake",
-      "Pie",
-      "Desert",
-      "Fruity",
-      "Sour"
-    ],
+    "tags": ["Cake", "Pie", "Desert", "Fruity", "Sour"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36c0",
@@ -6024,9 +5806,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/French%20Omelette.jpg",
     "time": "15",
     "youtube": "https://www.youtube.com/watch?v=qXPhVYpQLPA",
-    "tags": [
-      "Egg"
-    ],
+    "tags": ["Egg"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36ca",
@@ -6270,9 +6050,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chicken%20Basquaise.jpg",
     "time": "85",
     "youtube": "https://www.youtube.com/watch?v=emfm6TwsVhg",
-    "tags": [
-      "Meat"
-    ],
+    "tags": ["Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e365b",
@@ -6364,10 +6142,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Mbuzi%20Choma%20_Roasted%20Goat_.jpg",
     "time": "70",
     "youtube": "",
-    "tags": [
-      "BBQ",
-      "Meat"
-    ],
+    "tags": ["BBQ", "Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3863",
@@ -6411,10 +6186,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Red%20Peas%20Soup.jpg",
     "time": "205",
     "youtube": "https://www.youtube.com/watch?v=1ogCfDXotMw",
-    "tags": [
-      "Soup",
-      "SideDish"
-    ],
+    "tags": ["Soup", "SideDish"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37f0",
@@ -6486,9 +6258,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Apple%20_%20Blackberry%20Crumble.jpg",
     "time": "28",
     "youtube": "https://www.youtube.com/watch?v=4vhcOwVBDO4",
-    "tags": [
-      "Pudding"
-    ],
+    "tags": ["Pudding"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3743",
@@ -6532,9 +6302,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Christmas%20Pudding%20Trifle.jpg",
     "time": "15",
     "youtube": "https://www.youtube.com/watch?v=jRfyNQs5qhU",
-    "tags": [
-      "Christmas"
-    ],
+    "tags": ["Christmas"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372f",
@@ -6586,9 +6354,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Borscht.jpg",
     "time": "90",
     "youtube": "https://youtu.be/qkTlcfCw7jQ",
-    "tags": [
-      "Soup"
-    ],
+    "tags": ["Soup"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e366d",
@@ -6656,7 +6422,7 @@
       },
       {
         "id": "640c2dd963a319ea671e375e",
-        "measure": ""
+        "measure": "To taste"
       }
     ],
     "rating": 4.16
@@ -6672,10 +6438,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Salmon%20Eggs%20Eggs%20Benedict.jpg",
     "time": "20",
     "youtube": "https://www.youtube.com/watch?v=Woiiet4vQ58",
-    "tags": [
-      "Bun",
-      "Brunch"
-    ],
+    "tags": ["Bun", "Brunch"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36ca",
@@ -6723,11 +6486,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/BeaverTails.jpg",
     "time": "120",
     "youtube": "https://www.youtube.com/watch?v=2G07UOqU2e8",
-    "tags": [
-      "Treat",
-      "Pudding",
-      "Speciality"
-    ],
+    "tags": ["Treat", "Pudding", "Speciality"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e378f",
@@ -6871,12 +6630,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chocolate%20Gateau.jpg",
     "time": "75",
     "youtube": "https://www.youtube.com/watch?v=dsJtgmAhFF4",
-    "tags": [
-      "Cake",
-      "Chocolate",
-      "Desert",
-      "Pudding"
-    ],
+    "tags": ["Cake", "Chocolate", "Desert", "Pudding"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3742",
@@ -6916,9 +6670,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Lamb%20tomato%20and%20sweet%20spices.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=vaZb1MnFBgA",
-    "tags": [
-      ""
-    ],
+    "tags": [""],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -6990,12 +6742,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Fish%20pie.jpg",
     "time": "75",
     "youtube": "https://www.youtube.com/watch?v=2sX4fCgg-UI",
-    "tags": [
-      "Fish",
-      "Pie",
-      "Breakfast",
-      "Baking"
-    ],
+    "tags": ["Fish", "Pie", "Breakfast", "Baking"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36d9",
@@ -7123,9 +6870,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Smoky%20Lentil%20Chili%20with%20Squash.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=pKmqawK2Tqs",
-    "tags": [
-      "Pulse"
-    ],
+    "tags": ["Pulse"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -7217,9 +6962,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Beef%20Sunday%20Roast.jpg",
     "time": "45",
     "youtube": "https://www.youtube.com/watch?v=2l3-dBdNehY",
-    "tags": [
-      "MainMeal"
-    ],
+    "tags": ["MainMeal"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e365d",
@@ -7267,10 +7010,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Spicy%20Arrabiata%20Penne.jpg",
     "time": "25",
     "youtube": "https://www.youtube.com/watch?v=1IszT_guI08",
-    "tags": [
-      "Pasta",
-      "Curry"
-    ],
+    "tags": ["Pasta", "Curry"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e373e",
@@ -7318,11 +7058,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Nanaimo%20Bars.jpg",
     "time": "140",
     "youtube": "https://www.youtube.com/watch?v=MMrE4I1ZtWo",
-    "tags": [
-      "Treat",
-      "Snack",
-      "Dairy"
-    ],
+    "tags": ["Treat", "Snack", "Dairy"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3808",
@@ -7422,11 +7158,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Pear%20Tarte%20Tatin.jpg",
     "time": "42",
     "youtube": "https://www.youtube.com/watch?v=8U1tKWKDeWA",
-    "tags": [
-      "Tart",
-      "Glazed",
-      "Baking"
-    ],
+    "tags": ["Tart", "Glazed", "Baking"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e382c",
@@ -7526,10 +7258,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Jerk%20chicken%20with%20rice%20_%20peas.jpg",
     "time": "70",
     "youtube": "https://www.youtube.com/watch?v=qfchrS2D_v4",
-    "tags": [
-      "Chilli",
-      "Curry"
-    ],
+    "tags": ["Chilli", "Curry"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3697",
@@ -7657,10 +7386,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Snert%20_Dutch%20Split%20Pea%20Soup_.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=5YV0sJLtLt8",
-    "tags": [
-      "Soup",
-      "Cake"
-    ],
+    "tags": ["Soup", "Cake"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e378f",
@@ -7720,10 +7446,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Recheado%20Masala%20Fish.jpg",
     "time": "105",
     "youtube": "https://www.youtube.com/watch?v=FXtCris37nE",
-    "tags": [
-      "Fish",
-      "Spicy"
-    ],
+    "tags": ["Fish", "Spicy"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3719",
@@ -7787,12 +7510,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Choc%20Chip%20Pecan%20Pie.jpg",
     "time": "205",
     "youtube": "https://www.youtube.com/watch?v=fDpoT0jvg4Y",
-    "tags": [
-      "Pie",
-      "Desert",
-      "Sweet",
-      "Nutty"
-    ],
+    "tags": ["Pie", "Desert", "Sweet", "Nutty"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3743",
@@ -7852,10 +7570,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Bubble%20_%20Squeak.jpg",
     "time": "12",
     "youtube": "https://www.youtube.com/watch?v=etbJ9ssgsWY",
-    "tags": [
-      "SideDish",
-      "Speciality"
-    ],
+    "tags": ["SideDish", "Speciality"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -7895,9 +7610,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Rigatoni%20with%20fennel%20sausage%20sauce.jpg",
     "time": "75",
     "youtube": "https://www.youtube.com/watch?v=45dpOfESxr8",
-    "tags": [
-      "Pasta"
-    ],
+    "tags": ["Pasta"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -7973,9 +7686,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Tahini%20Lentils.jpg",
     "time": "25",
     "youtube": "https://www.youtube.com/watch?v=8kRlmz8pW0I",
-    "tags": [
-      "Pulse"
-    ],
+    "tags": ["Pulse"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37f2",
@@ -8031,10 +7742,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Cream%20Cheese%20Tart.jpg",
     "time": "50",
     "youtube": "https://www.youtube.com/watch?v=UhQPwO4uymo",
-    "tags": [
-      "Tart",
-      "Savory"
-    ],
+    "tags": ["Tart", "Savory"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36d7",
@@ -8142,11 +7850,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Pumpkin%20Pie.jpg",
     "time": "105",
     "youtube": "https://www.youtube.com/watch?v=hpapqEeb36k",
-    "tags": [
-      "Halloween",
-      "Pie",
-      "Desert"
-    ],
+    "tags": ["Halloween", "Pie", "Desert"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37df",
@@ -8302,9 +8006,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Kapsalon.jpg",
     "time": "63",
     "youtube": "https://www.youtube.com/watch?v=UIcuiU1kV8I",
-    "tags": [
-      "Snack"
-    ],
+    "tags": ["Snack"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36e0",
@@ -8412,11 +8114,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Fish%20Stew%20with%20Rouille.jpg",
     "time": "45",
     "youtube": "https://www.youtube.com/watch?v=fp9Lqx2EUco",
-    "tags": [
-      "Fish",
-      "Seafood",
-      "Shellfish"
-    ],
+    "tags": ["Fish", "Seafood", "Shellfish"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3747",
@@ -8504,10 +8202,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Sugar%20Pie.jpg",
     "time": "50",
     "youtube": "https://www.youtube.com/watch?v=uVQ66jiL-Dc",
-    "tags": [
-      "Pie",
-      "Desert"
-    ],
+    "tags": ["Pie", "Desert"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367d",
@@ -8647,14 +8342,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chocolate%20Caramel%20Crispy.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=qsk_At_gjv0",
-    "tags": [
-      "Sweet",
-      "Snack",
-      "Treat",
-      "Tart",
-      "Alcoholic",
-      "BBQ"
-    ],
+    "tags": ["Sweet", "Snack", "Treat", "Tart", "Alcoholic", "BBQ"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e385c",
@@ -8686,12 +8374,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Tarte%20Tatin.jpg",
     "time": "80",
     "youtube": "https://www.youtube.com/watch?v=8xDM8U6h9Pw",
-    "tags": [
-      "Treat",
-      "Tart",
-      "Desert",
-      "DinnerParty"
-    ],
+    "tags": ["Treat", "Tart", "Desert", "DinnerParty"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3748",
@@ -8731,12 +8414,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Sticky%20Toffee%20Pudding%20Ultimate.jpg",
     "time": "75",
     "youtube": "https://www.youtube.com/watch?v=hKq6RbxJHBo",
-    "tags": [
-      "Pudding",
-      "Desert",
-      "Cake",
-      "Dairy"
-    ],
+    "tags": ["Pudding", "Desert", "Cake", "Dairy"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e371d",
@@ -8804,11 +8482,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Lamb%20Rogan%20josh.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=NZVo32n7iS8",
-    "tags": [
-      "Curry",
-      "Spicy",
-      "Alcoholic"
-    ],
+    "tags": ["Curry", "Spicy", "Alcoholic"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37ae",
@@ -8872,10 +8546,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Lamb%20Biryani.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=r7SYVSG5nxo",
-    "tags": [
-      "Curry",
-      "Meat"
-    ],
+    "tags": ["Curry", "Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3685",
@@ -9055,10 +8726,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Squash%20linguine.jpg",
     "time": "55",
     "youtube": "https://www.youtube.com/watch?v=xHZ-PoGwTLQ",
-    "tags": [
-      "Pasta",
-      "Light"
-    ],
+    "tags": ["Pasta", "Light"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37c0",
@@ -9094,9 +8762,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/McSinghs%20Scotch%20pie.jpg",
     "time": "158",
     "youtube": "https://www.youtube.com/watch?v=1nArqhRyszw",
-    "tags": [
-      "Pie"
-    ],
+    "tags": ["Pie"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36b8",
@@ -9172,10 +8838,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Hot%20Chocolate%20Fudge.jpg",
     "time": "350",
     "youtube": "https://www.youtube.com/watch?v=oJvbsVSblfk",
-    "tags": [
-      "Snack",
-      "Chocolate"
-    ],
+    "tags": ["Snack", "Chocolate"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e369e",
@@ -9215,11 +8878,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Banana%20Pancakes.jpg",
     "time": "15",
     "youtube": "https://www.youtube.com/watch?v=kSKtb2Sv-_U",
-    "tags": [
-      "Breakfast",
-      "Desert",
-      "Sweet"
-    ],
+    "tags": ["Breakfast", "Desert", "Sweet"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37d4",
@@ -9263,10 +8922,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Spaghetti%20Bolognese.jpg",
     "time": "45",
     "youtube": "https://www.youtube.com/watch?v=-gF8d-fitkU",
-    "tags": [
-      "Pasta",
-      "Meat"
-    ],
+    "tags": ["Pasta", "Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372e",
@@ -9398,13 +9054,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Eton%20Mess.jpg",
     "time": "20",
     "youtube": "https://www.youtube.com/watch?v=43WgiNq54L8",
-    "tags": [
-      "Dairy",
-      "Fruity",
-      "Desert",
-      "Treat",
-      "Speciality"
-    ],
+    "tags": ["Dairy", "Fruity", "Desert", "Treat", "Speciality"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3773",
@@ -9516,10 +9166,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Mushroom%20_%20Chestnut%20Rotolo.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=GNN7_ZSJ5YE",
-    "tags": [
-      "Vegetarian",
-      "Nutty"
-    ],
+    "tags": ["Vegetarian", "Nutty"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3726",
@@ -9583,12 +9230,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Canadian%20Butter%20Tarts.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=WUpaOGghOdo",
-    "tags": [
-      "Speciality",
-      "Snack",
-      "Desert",
-      "Pudding"
-    ],
+    "tags": ["Speciality", "Snack", "Desert", "Pudding"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37e0",
@@ -9748,9 +9390,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Classic%20Christmas%20pudding.jpg",
     "time": "480",
     "youtube": "https://www.youtube.com/watch?v=Pb_lJxL1vtk",
-    "tags": [
-      "Christmas"
-    ],
+    "tags": ["Christmas"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3814",
@@ -9810,9 +9450,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Vegetarian%20Chilli.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=D0bFRVH_EqU",
-    "tags": [
-      "Chilli"
-    ],
+    "tags": ["Chilli"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37ef",
@@ -9844,9 +9482,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Creamy%20Tomato%20Soup.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=lBhwjjUiFk4",
-    "tags": [
-      "Baking"
-    ],
+    "tags": ["Baking"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -9914,11 +9550,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Breakfast%20Potatoes.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=BoD0TIO9nE4",
-    "tags": [
-      "Breakfast",
-      "Brunch",
-      ""
-    ],
+    "tags": ["Breakfast", "Brunch", ""],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3746",
@@ -9970,10 +9602,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Katsu%20Chicken%20curry.jpg",
     "time": "45",
     "youtube": "https://www.youtube.com/watch?v=MWzxDFRtVbc",
-    "tags": [
-      "Curry",
-      "Meat"
-    ],
+    "tags": ["Curry", "Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3693",
@@ -10045,10 +9674,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Spicy%20North%20African%20Potato%20Salad.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=zxBzwJvTK4g",
-    "tags": [
-      "Vegetarian",
-      "Spicy"
-    ],
+    "tags": ["Vegetarian", "Spicy"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3768",
@@ -10152,9 +9778,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Wontons.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=9h9No18ZyCI",
-    "tags": [
-      "MainMeal"
-    ],
+    "tags": ["MainMeal"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e365e",
@@ -10214,10 +9838,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Beef%20Dumpling%20Stew.jpg",
     "time": "140",
     "youtube": "https://www.youtube.com/watch?v=6NgheY-r5t0",
-    "tags": [
-      "Stew",
-      "Baking"
-    ],
+    "tags": ["Stew", "Baking"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -10300,10 +9921,10 @@
     "category": "Miscellaneous",
     "area": "Tunisian",
     "instructions": "In a large cast iron skillet or sauté pan with a lid, heat oil over medium high heat. Add the onion and sauté for 2-3 minutes, until softened. Add the peppers and garlic, and sauté for an additional 3-5 minutes. Add the tomatoes, cumin, paprika, salt, and chili powder. Mix well and bring the mixture to a simmer. Reduce the heat to medium low and continue to simmer, uncovered, 10-15 minutes until the mixture has thickened to your desired consistency. (Taste the sauce at this point and adjust for salt and spice, as desired.) Using the back of a spoon, make four craters in the mixture, large enough to hold an egg. Crack one egg into each of the craters. Cover the skillet and simmer for 5-7 minutes, until the eggs have set. Serve immediately with crusty bread or pita.",
-    "description": "",
+    "description": "Tunisian Chakchouka",
     "thumb": "https://ftp.goit.study/img/so-yummy/preview/Chakchouka.jpg",
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chakchouka.jpg",
-    "time": "",
+    "time": "25 min",
     "youtube": "https://www.youtube.com/watch?v=EHKNu93MSx4",
     "tags": [],
     "ingredients": [
@@ -10365,10 +9986,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Bread%20and%20Butter%20Pudding.jpg",
     "time": "80",
     "youtube": "https://www.youtube.com/watch?v=Vz5W1-BmOE4",
-    "tags": [
-      "Pudding",
-      "Brunch"
-    ],
+    "tags": ["Pudding", "Brunch"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -10420,11 +10038,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chicken%20Alfredo%20Primavera.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=qCIbq8HywpQ",
-    "tags": [
-      "Pasta",
-      "Meat",
-      "Dairy"
-    ],
+    "tags": ["Pasta", "Meat", "Dairy"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -10508,9 +10122,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Corba.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=VVnZd8A84z4",
-    "tags": [
-      "Soup"
-    ],
+    "tags": ["Soup"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37ee",
@@ -10578,9 +10190,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Lasagna%20Sandwiches.jpg",
     "time": "15",
     "youtube": "",
-    "tags": [
-      "Sandwich"
-    ],
+    "tags": ["Sandwich"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e376b",
@@ -10632,11 +10242,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Peanut%20Butter%20Cookies.jpg",
     "time": "10",
     "youtube": "",
-    "tags": [
-      "Breakfast",
-      "UnHealthy",
-      "BBQ"
-    ],
+    "tags": ["Breakfast", "UnHealthy", "BBQ"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3739",
@@ -10664,11 +10270,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chocolate%20Raspberry%20Brownies.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=Pi89PqsAaAg",
-    "tags": [
-      "Chocolate",
-      "Desert",
-      "Snack"
-    ],
+    "tags": ["Chocolate", "Desert", "Snack"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37de",
@@ -10716,9 +10318,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Kumpir.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=IEDEtZ4UVtI",
-    "tags": [
-      "SideDish"
-    ],
+    "tags": ["SideDish"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3746",
@@ -10758,9 +10358,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Oatmeal%20Cookies%20With%20Peanuts.jpg",
     "time": "40",
     "youtube": null,
-    "tags": [
-      "Baking"
-    ],
+    "tags": ["Baking"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e381e",
@@ -11188,10 +10786,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Jamaican%20Beef%20Patties.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=ypQjoiZiTac",
-    "tags": [
-      "Snack",
-      "Spicy"
-    ],
+    "tags": ["Snack", "Spicy"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3743",
@@ -11267,11 +10862,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Montreal%20Smoked%20Meat.jpg",
     "time": "420",
     "youtube": "https://www.youtube.com/watch?v=g5oCDoyxbBk",
-    "tags": [
-      "Speciality",
-      "Snack",
-      "StrongFlavor"
-    ],
+    "tags": ["Speciality", "Snack", "StrongFlavor"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e366c",
@@ -11343,12 +10934,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Escovitch%20Fish.jpg",
     "time": "22",
     "youtube": "https://www.youtube.com/watch?v=nF6DOtGE6k8",
-    "tags": [
-      "Seafood",
-      "Spicy",
-      "Speciality",
-      "Easter"
-    ],
+    "tags": ["Seafood", "Spicy", "Speciality", "Easter"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3843",
@@ -11480,11 +11066,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Roasted%20Eggplant%20With%20Tahini_%20Pine%20Nuts_%20and%20Lentils.jpg",
     "time": "75",
     "youtube": "https://www.youtube.com/watch?v=HkywCtna9t0",
-    "tags": [
-      "Vegetarian",
-      "Pulse",
-      "Nutty"
-    ],
+    "tags": ["Vegetarian", "Pulse", "Nutty"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -11615,10 +11197,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Tandoori%20chicken.jpg",
     "time": "80",
     "youtube": "https://www.youtube.com/watch?v=-CKvt1KNU74",
-    "tags": [
-      "Spicy",
-      "Meat"
-    ],
+    "tags": ["Spicy", "Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3714",
@@ -11682,10 +11261,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Mediterranean%20Pasta%20Salad.jpg",
     "time": "27",
     "youtube": "https://www.youtube.com/watch?v=e52IL8zYmaE",
-    "tags": [
-      "Pasta",
-      "Baking"
-    ],
+    "tags": ["Pasta", "Baking"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3724",
@@ -11737,12 +11313,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Blackberry%20Fool.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=kniRGjDLFrQ",
-    "tags": [
-      "Desert",
-      "Summer",
-      "Fruity",
-      "Dairy"
-    ],
+    "tags": ["Desert", "Summer", "Fruity", "Dairy"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e380c",
@@ -11882,9 +11453,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Beef%20and%20Oyster%20pie.jpg",
     "time": "210",
     "youtube": "https://www.youtube.com/watch?v=ONX74yP6JnI",
-    "tags": [
-      "Pie"
-    ],
+    "tags": ["Pie"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e365d",
@@ -11960,10 +11529,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Kentucky%20Fried%20Chicken.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=PTUxCvCz8Bc",
-    "tags": [
-      "Meat",
-      "Spicy"
-    ],
+    "tags": ["Meat", "Spicy"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e365b",
@@ -12095,10 +11661,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Spanish%20Tortilla.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=JceGMNG7rpU",
-    "tags": [
-      "Egg",
-      "Light"
-    ],
+    "tags": ["Egg", "Light"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37ae",
@@ -12150,11 +11713,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chicken%20Enchilada%20Casserole.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=EtVkwVKLc_M",
-    "tags": [
-      "Casserole",
-      "Cheasy",
-      "Meat"
-    ],
+    "tags": ["Casserole", "Cheasy", "Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36cb",
@@ -12238,11 +11797,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Peach%20_%20Blueberry%20Grunt.jpg",
     "time": "50",
     "youtube": "https://www.youtube.com/watch?v=SNeO28BCpsc",
-    "tags": [
-      "Desert",
-      "Pudding",
-      "Fruity"
-    ],
+    "tags": ["Desert", "Pudding", "Fruity"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37a4",
@@ -12354,10 +11909,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Cajun%20spiced%20fish%20tacos.jpg",
     "time": "25",
     "youtube": "https://www.youtube.com/watch?v=N4EdUt0Ou48",
-    "tags": [
-      "Spicy",
-      "Fish"
-    ],
+    "tags": ["Spicy", "Fish"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3680",
@@ -12417,9 +11969,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Turkey%20Meatloaf.jpg",
     "time": "75",
     "youtube": "https://www.youtube.com/watch?v=mTvlmY4vCug",
-    "tags": [
-      "Alcoholic"
-    ],
+    "tags": ["Alcoholic"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -12479,12 +12029,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Pancakes.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=LWuuCndtJr0",
-    "tags": [
-      "Breakfast",
-      "Desert",
-      "Sweet",
-      "Fruity"
-    ],
+    "tags": ["Breakfast", "Desert", "Sweet", "Fruity"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36d7",
@@ -12616,11 +12161,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Spaghetti%20alla%20Carbonara.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=_T6jkRvhlkk",
-    "tags": [
-      "Pasta",
-      "BBQ",
-      "Breakfast"
-    ],
+    "tags": ["Pasta", "BBQ", "Breakfast"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e376e",
@@ -12660,10 +12201,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Fruit%20and%20Cream%20Cheese%20Breakfast%20Pastries.jpg",
     "time": "20",
     "youtube": "",
-    "tags": [
-      "Breakfast",
-      "Summer"
-    ],
+    "tags": ["Breakfast", "Summer"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e379c",
@@ -12831,10 +12369,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Garides%20Saganaki.jpg",
     "time": "45",
     "youtube": "https://www.youtube.com/watch?v=uO0ejc85zSE",
-    "tags": [
-      "Seafood",
-      "Shellfish"
-    ],
+    "tags": ["Seafood", "Shellfish"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e374a",
@@ -12942,10 +12477,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Timbits.jpg",
     "time": "25",
     "youtube": "https://www.youtube.com/watch?v=fFLn1h80AGQ",
-    "tags": [
-      "Snack",
-      "Treat"
-    ],
+    "tags": ["Snack", "Treat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36d7",
@@ -13049,9 +12581,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Hot%20and%20Sour%20Soup.jpg",
     "time": "15",
     "youtube": "https://www.youtube.com/watch?v=KgV9Zq3aSTo",
-    "tags": [
-      "Soup"
-    ],
+    "tags": ["Soup"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3726",
@@ -13171,10 +12701,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Mushroom%20soup%20with%20buckwheat.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=M1ok7mG9-Qc",
-    "tags": [
-      "Warming",
-      " Soup"
-    ],
+    "tags": ["Warming", " Soup"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3726",
@@ -13414,11 +12941,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Smoked%20Haddock%20Kedgeree.jpg",
     "time": "25",
     "youtube": "https://www.youtube.com/watch?v=QqdzDCWS4gQ",
-    "tags": [
-      "Brunch",
-      "Fish",
-      "Fusion"
-    ],
+    "tags": ["Brunch", "Fish", "Fusion"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -13566,11 +13089,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Egg%20Drop%20Soup.jpg",
     "time": "15",
     "youtube": "https://www.youtube.com/watch?v=9XpzHm9QpZg",
-    "tags": [
-      "Soup",
-      "Baking",
-      "Calorific"
-    ],
+    "tags": ["Soup", "Baking", "Calorific"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3696",
@@ -13686,9 +13205,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chickpea%20Fajitas.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=LGY3V7EGpT0",
-    "tags": [
-      "Vegetarian"
-    ],
+    "tags": ["Vegetarian"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3698",
@@ -13752,9 +13269,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Pad%20See%20Ew.jpg",
     "time": "20",
     "youtube": "https://www.youtube.com/watch?v=Ohy1DELF4is",
-    "tags": [
-      "Pasta"
-    ],
+    "tags": ["Pasta"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3755",
@@ -14022,12 +13537,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Prawn%20_%20Fennel%20Bisque.jpg",
     "time": "55",
     "youtube": "https://www.youtube.com/watch?v=4thpMbDakgM",
-    "tags": [
-      "Soup",
-      "Warm",
-      "Seafood",
-      "Shellfish"
-    ],
+    "tags": ["Soup", "Warm", "Seafood", "Shellfish"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e382f",
@@ -14151,11 +13661,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Brie%20wrapped%20in%20prosciutto%20_%20brioche.jpg",
     "time": "35",
     "youtube": "https://www.youtube.com/watch?v=FzNPPD8lbWg",
-    "tags": [
-      "SideDish",
-      "Treat",
-      "Baking"
-    ],
+    "tags": ["SideDish", "Treat", "Baking"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3743",
@@ -14323,9 +13829,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Three-cheese%20souffles.jpg",
     "time": "70",
     "youtube": "https://www.youtube.com/watch?v=mS_gbQpBvZo",
-    "tags": [
-      "Baking"
-    ],
+    "tags": ["Baking"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -14441,9 +13945,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Summer%20Pudding.jpg",
     "time": "380",
     "youtube": "https://www.youtube.com/watch?v=akJIO6UhXtA",
-    "tags": [
-      "Summer"
-    ],
+    "tags": ["Summer"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3773",
@@ -14483,9 +13985,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Kung%20Po%20Prawns.jpg",
     "time": "20",
     "youtube": "https://www.youtube.com/watch?v=ysiuZm9FIxs",
-    "tags": [
-      "BBQ"
-    ],
+    "tags": ["BBQ"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3747",
@@ -14549,11 +14049,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Bitterballen%20_Dutch%20meatballs_.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=q8AKfYUtDuM",
-    "tags": [
-      "DinnerParty",
-      "HangoverFood",
-      "Alcoholic"
-    ],
+    "tags": ["DinnerParty", "HangoverFood", "Alcoholic"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -14613,9 +14109,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Walnut%20Roll%20Gužvara.jpg",
     "time": "175",
     "youtube": "https://www.youtube.com/watch?v=Q_akngSJVrQ",
-    "tags": [
-      "Nutty"
-    ],
+    "tags": ["Nutty"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36d7",
@@ -14675,9 +14169,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Steak%20and%20Kidney%20Pie.jpg",
     "time": "140",
     "youtube": "https://www.youtube.com/watch?v=oTw5tPt4KmA",
-    "tags": [
-      "Pie"
-    ],
+    "tags": ["Pie"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3748",
@@ -14797,10 +14289,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Vegan%20Lasagna.jpg",
     "time": "50",
     "youtube": "https://www.youtube.com/watch?v=VU8cXvlGbvc",
-    "tags": [
-      "Vegan",
-      "Pasta"
-    ],
+    "tags": ["Vegan", "Pasta"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36f4",
@@ -14996,11 +14485,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chicken%20Fajita%20Mac%20and%20Cheese.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=bwTSmLTZKNg",
-    "tags": [
-      "Pasta",
-      "Cheasy",
-      "Meat"
-    ],
+    "tags": ["Pasta", "Cheasy", "Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3718",
@@ -15112,11 +14597,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Dundee%20cake.jpg",
     "time": "125",
     "youtube": "https://www.youtube.com/watch?v=4hEXsfpeMQE",
-    "tags": [
-      "heavy",
-      "Nutty",
-      "Fruity"
-    ],
+    "tags": ["heavy", "Nutty", "Fruity"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3814",
@@ -15184,10 +14665,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Chicken%20Ham%20and%20Leek%20Pie.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=xr-CpPE_lNk",
-    "tags": [
-      "Pie",
-      "Meat"
-    ],
+    "tags": ["Pie", "Meat"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3696",
@@ -15427,10 +14905,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Ratatouille.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=BFdQUgAFtGU",
-    "tags": [
-      "Vegetables",
-      "SideDish"
-    ],
+    "tags": ["Vegetables", "SideDish"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3662",
@@ -15486,10 +14961,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Stamppot.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=hTrSXryX31A",
-    "tags": [
-      "Savory",
-      "Breakfast"
-    ],
+    "tags": ["Savory", "Breakfast"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3746",
@@ -15585,10 +15057,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Pate%20Chinois.jpg",
     "time": "45",
     "youtube": "https://www.youtube.com/watch?v=QRFqnLkEv3I",
-    "tags": [
-      "MainMeal",
-      "Alcoholic"
-    ],
+    "tags": ["MainMeal", "Alcoholic"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3746",
@@ -15644,9 +15113,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Rappie%20Pie.jpg",
     "time": "85",
     "youtube": "https://www.youtube.com/watch?v=Ys2kZnTVXAM",
-    "tags": [
-      "Pie"
-    ],
+    "tags": ["Pie"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -15685,7 +15152,7 @@
     "category": "Pork",
     "area": "Polish",
     "instructions": "Preheat the oven to 350 degrees F (175 degrees C).\r\n\r\nHeat a large pot over medium heat. Add the bacon and kielbasa; cook and stir until the bacon has rendered its fat and sausage is lightly browned. Use a slotted spoon to remove the meat and transfer to a large casserole or Dutch oven.\r\n\r\nCoat the cubes of pork lightly with flour and fry them in the bacon drippings over medium-high heat until golden brown. Use a slotted spoon to transfer the pork to the casserole. Add the garlic, onion, carrots, fresh mushrooms, cabbage and sauerkraut. Reduce heat to medium; cook and stir until the carrots are soft, about 10 minutes. Do not let the vegetables brown.\r\n\r\nDeglaze the pan by pouring in the red wine and stirring to loosen all of the bits of food and flour that are stuck to the bottom. Season with the bay leaf, basil, marjoram, paprika, salt, pepper, caraway seeds and cayenne pepper; cook for 1 minute.\r\n\r\nMix in the dried mushrooms, hot pepper sauce, Worcestershire sauce, beef stock, tomato paste and tomatoes. Heat through just until boiling. Pour the vegetables and all of the liquid into the casserole dish with the meat. Cover with a lid.\r\n\r\nBake in the preheated oven for 2 1/2 to 3 hours, until meat is very tender.",
-    "description": "",
+    "description": "Hunters Stew",
     "thumb": "https://ftp.goit.study/img/so-yummy/preview/Bigos%20_Hunters%20Stew_.jpg",
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Bigos%20_Hunters%20Stew_.jpg",
     "time": "200",
@@ -15934,9 +15401,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Christmas%20cake.jpg",
     "time": "175",
     "youtube": "https://www.youtube.com/watch?v=34yeL8TstO0",
-    "tags": [
-      "Christmas"
-    ],
+    "tags": ["Christmas"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -16100,11 +15565,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Croatian%20Bean%20Stew.jpg",
     "time": "30",
     "youtube": "https://www.youtube.com/watch?v=mrjnQal3S1A",
-    "tags": [
-      "Warming",
-      " Soup",
-      " Beans"
-    ],
+    "tags": ["Warming", " Soup", " Beans"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3682",
@@ -16148,10 +15609,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Laksa%20King%20Prawn%20Noodles.jpg",
     "time": "20",
     "youtube": "https://www.youtube.com/watch?v=OcarztU8cYo",
-    "tags": [
-      "Shellfish",
-      "Seafood"
-    ],
+    "tags": ["Shellfish", "Seafood"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e372c",
@@ -16203,11 +15661,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Spotted%20Dick.jpg",
     "time": "90",
     "youtube": "https://www.youtube.com/watch?v=fu15XOF-ros",
-    "tags": [
-      "Fruity",
-      "Pudding",
-      "Desert"
-    ],
+    "tags": ["Fruity", "Pudding", "Desert"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3762",
@@ -16567,9 +16021,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Corned%20Beef%20and%20Cabbage.jpg",
     "time": "80",
     "youtube": "",
-    "tags": [
-      ""
-    ],
+    "tags": [""],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e366c",
@@ -16669,12 +16121,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Madeira%20Cake.jpg",
     "time": "40",
     "youtube": "https://www.youtube.com/watch?v=-YDh4WEmK_E",
-    "tags": [
-      "Cake",
-      "Light",
-      "Baking",
-      "Desert"
-    ],
+    "tags": ["Cake", "Light", "Baking", "Desert"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e367e",
@@ -16718,13 +16165,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Strawberry%20Rhubarb%20Pie.jpg",
     "time": "170",
     "youtube": "https://www.youtube.com/watch?v=tGw5Pwm4YA0",
-    "tags": [
-      "Pudding",
-      "Pie",
-      "Baking",
-      "Fruity",
-      "Glazed"
-    ],
+    "tags": ["Pudding", "Pie", "Baking", "Fruity", "Glazed"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36d7",
@@ -16828,9 +16269,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Provençal%20Omelette%20Cake.jpg",
     "time": "60",
     "youtube": "https://www.youtube.com/watch?v=B7isFo2uP2k",
-    "tags": [
-      "Egg"
-    ],
+    "tags": ["Egg"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e36ca",
@@ -16998,9 +16437,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Cevapi%20Sausages.jpg",
     "time": "70",
     "youtube": "https://www.youtube.com/watch?v=_MpSxSgS7f8",
-    "tags": [
-      "Sausages"
-    ],
+    "tags": ["Sausages"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e37c2",
@@ -17064,10 +16501,7 @@
     "preview": "https://ftp.goit.study/img/so-yummy/preview/Fennel%20Dauphinoise.jpg",
     "time": "50",
     "youtube": "https://www.youtube.com/watch?v=tXBzZm2kkh8",
-    "tags": [
-      "Pie",
-      "SideDish"
-    ],
+    "tags": ["Pie", "SideDish"],
     "ingredients": [
       {
         "id": "640c2dd963a319ea671e3746",
