@@ -1,4 +1,4 @@
-import { CategoriesCollection } from "../db/models/category";
+import { CategoriesCollection } from "../db/models/category.js";
 
 const getAllCategories = async () => {
   const categories = await CategoriesCollection.find();
