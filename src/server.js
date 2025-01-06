@@ -3,7 +3,6 @@ import express from "express";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 
-//import router from "./routers/index.js";
 import { env } from "./utils/env.js";
 import router from "./routers/index.js";
 
