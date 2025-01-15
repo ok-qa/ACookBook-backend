@@ -6,6 +6,7 @@ import runAreasSeed from "./areas.js";
 import runCategoriesSeed from "./categories.js";
 import runIngredientsSeed from "./ingredients.js";
 import runRecipesSeed from "./recipes.js";
+import { runTwoCategoriesRecipeSeed } from "./testRecipe.js";
 
 const runAllSeeds = async () => {
   await RecipesCollection.deleteMany({});
@@ -17,6 +18,7 @@ const runAllSeeds = async () => {
   await runCategoriesSeed();
   await runIngredientsSeed();
   await runRecipesSeed();
+  await runTwoCategoriesRecipeSeed();
 };
 
 export default runAllSeeds;
