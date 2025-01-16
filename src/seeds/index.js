@@ -17,6 +17,8 @@ const runAllSeeds = async () => {
   await runCategoriesSeed();
   await runIngredientsSeed();
   await runRecipesSeed();
+
+  console.log("All seeds planted");
 };
 
 export default runAllSeeds;

@@ -30,7 +30,7 @@ const runRecipesSeed = async () => {
         title: recipe.title,
         categoryId: category.id,
         description: recipe.description,
-        cookingTime: recipe.time,
+        cookingTime: parseFloat(recipe.time),
         instructions: recipe.instructions,
         img: recipe.thumb,
         youtube: recipe.youtube,
