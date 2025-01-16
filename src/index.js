@@ -5,7 +5,7 @@ import runAllSeeds from "./seeds/index.js";
 
 const bootstrap = async () => {
   await initMongoConnection();
-  // runAllSeeds();
+  runAllSeeds();
   setupServer();
 };
 
