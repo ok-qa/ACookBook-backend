@@ -8,7 +8,7 @@ export const runTwoCategoriesRecipeSeed = async () => {
       areaId: "67534f14a46243f15eba86fd",
       description:
         "This chocolate mug cake is made in the microwave for a fudgy, chocolaty treat that is truly decadent. It's a great recipe for nights when I need a yummy dessert that's ready in less than 10 minutes!",
-      cookingTime: "5",
+      cookingTime: 5,
       instructions:
         "Mix flour, sugar, cocoa powder, baking soda, and salt together in a large microwave-safe mug; stir in milk, canola oil, water, and vanilla extract. Cook in the microwave until cake is done in the middle, about 1 minute 45 seconds. Enjoy!",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWipN3voyA8oUvjjTtbcxFsGTYOmo5dQoJlNIWcyMScmoFez1sk3mhTGDncJTEJvAHEJY&usqp=CAU",
