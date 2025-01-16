@@ -21,7 +21,7 @@ export const recipeSchema = new Schema(
       required: true,
     },
     cookingTime: {
-      type: String,
+      type: Number,
       required: true,
     },
     instructions: {
