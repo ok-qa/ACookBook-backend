@@ -5,6 +5,7 @@ import cookieParser from "cookie-parser";
 
 import { env } from "./utils/env.js";
 import router from "./routers/index.js";
+import { errorHandler } from "./middlewares/errorHandler.js";
 
 // import { notFoundHandler } from "./middlewares/notFoundHandler.js";
 // import { errorHandler } from "./middlewares/errorHandler.js";
@@ -31,7 +32,7 @@ const setupServer = () => {
 
   //   app.use("*", notFoundHandler);
 
-  //   app.use(errorHandler);
+  app.use(errorHandler);
 
   app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
