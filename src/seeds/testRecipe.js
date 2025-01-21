@@ -1,11 +1,57 @@
+import { AreasCollection } from "../db/models/area.js";
+import { CategoriesCollection } from "../db/models/category.js";
+import { IngredientsCollection } from "../db/models/ingredient.js";
 import { RecipesCollection } from "../db/models/recipe.js";
 
 export const runTwoCategoriesRecipeSeed = async () => {
   try {
+    const dessertCategory = await CategoriesCollection.findOne({
+      name: "Dessert",
+    });
+    const breakfastCategory = await CategoriesCollection.findOne({
+      name: "Breakfast",
+    });
+
+    const unknownArea = await AreasCollection.findOne({ name: "Unknown" });
+
+    const flour = await IngredientsCollection.findOne({ name: "Flour" });
+
+    const sugar = await IngredientsCollection.findOne({
+      name: "Granulated Sugar",
+    });
+
+    const baking_soda = await IngredientsCollection.findOne({
+      name: "Bicarbonate Of Soda",
+    });
+
+    const cocoa_powder = await IngredientsCollection.findOne({
+      name: "Cocoa",
+    });
+
+    const salt = await IngredientsCollection.findOne({
+      name: "Kosher Salt",
+    });
+
+    const milk = await IngredientsCollection.findOne({
+      name: "Milk",
+    });
+
+    const vegetable_oil = await IngredientsCollection.findOne({
+      name: "Vegetable Oil",
+    });
+
+    const vanilla_extract = await IngredientsCollection.findOne({
+      name: "Vanilla Extract",
+    });
+
+    const chocolate_chips = await IngredientsCollection.findOne({
+      name: "Chocolate Chips",
+    });
+
     const newRecipe = {
       title: "Chocolate Mug Cake (test)",
-      categoryId: ["67534f16a46243f15eba872f", "67534f16a46243f15eba8733"],
-      areaId: "67534f14a46243f15eba86fd",
+      categoryId: [dessertCategory.id, breakfastCategory.id],
+      areaId: unknownArea.id,
       description:
         "This chocolate mug cake is made in the microwave for a fudgy, chocolaty treat that is truly decadent. It's a great recipe for nights when I need a yummy dessert that's ready in less than 10 minutes!",
       cookingTime: 5,
@@ -15,19 +61,20 @@ export const runTwoCategoriesRecipeSeed = async () => {
       youtube: "https://www.youtube.com/watch?v=H3OhTEkNbgU",
       tags: ["Easy", "Cake"],
       ingredients: [
-        { id: "67534f1aa46243f15eba88a7", measure: "1/4 cup" },
-        { id: "67534f21a46243f15eba8aab", measure: "1/4 cup" },
-        { id: "67534f21a46243f15eba8abb", measure: "2 tbs" },
-        { id: "67534f1fa46243f15eba8a45", measure: "1/8 tsp" },
-        { id: "67534f22a46243f15eba8b4b", measure: "1/8 tsp" },
-        { id: "67534f17a46243f15eba87b3", measure: "3 tbs" },
-        { id: "67534f19a46243f15eba8815", measure: "2 tbs" },
-        { id: "67534f21a46243f15eba8aaf", measure: "1 tbs" },
-        { id: "67534f19a46243f15eba8839", measure: "1/8 tsp" },
+        { id: flour.id, measure: "3 tbs" },
+        { id: sugar.id, measure: "3 tbs" },
+        { id: cocoa_powder.id, measure: "2 tbs" },
+        { id: baking_soda.id, measure: "1/4 tsp" },
+        { id: salt.id, measure: "1 pinch" },
+        { id: milk.id, measure: "3 tbs" },
+        { id: vegetable_oil.id, measure: "3 tbs" },
+        { id: vanilla_extract.id, measure: "1/8 tsp" },
+        { id: chocolate_chips.id, measure: "3 tbs" },
       ],
       rating: 4.9,
     };
     await RecipesCollection.create(newRecipe);
+    console.log("Test recipe successfully created");
   } catch (error) {
     console.error(error);
   }
